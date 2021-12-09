@@ -4,6 +4,8 @@
 #
 # Executed by startx (run your window manager from here)
 
+betterlockscreen -w dim,pixel
+
 userresources=$HOME/.Xresources
 usermodmap=$HOME/.Xmodmap
 sysresources=/etc/X11/xinit/.Xresources
