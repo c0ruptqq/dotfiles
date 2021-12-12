@@ -1,5 +1,6 @@
+
 - defaults:
-  link:
+    link:
      create: true
      force: true
 
@@ -13,4 +14,3 @@
     ~/.config/rofi: rofi
     ~/.aliases: aliases
     ~/.config/betterlockscreenrc: betterlockscreenrc
-
