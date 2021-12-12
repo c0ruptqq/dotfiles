@@ -2,7 +2,10 @@
 # ~/.bashrc
 #
 
-alias c='clear'
+if [ -f ~/.aliases ]; then
+    . ~/.aliases
+fi
+
 
 [[ $- != *i* ]] && return
 

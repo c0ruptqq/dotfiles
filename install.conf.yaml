@@ -11,5 +11,6 @@
     ~/.zshrc: zshrc
     ~/.xinitrc: xinitrc
     ~/.config/rofi: rofi
+    ~/.aliases: aliases
 
 
