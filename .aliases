@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+alias c='clear'
+alias neofetch='neofetch --source /home/maksym/sus'
