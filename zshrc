@@ -1,2 +1,3 @@
 source $HOME/.aliases
-PROMPT="%F{135}%n in%f %F{161}%~%f %F{136}λ "
+PROMPT="╭─ %F{135}%n in%f %F{161}%~%f 
+╰─ %F{11}λ "
