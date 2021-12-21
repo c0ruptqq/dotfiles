@@ -14,3 +14,4 @@
     ~/.config/rofi: rofi
     ~/.aliases: aliases
     ~/.config/betterlockscreenrc: betterlockscreenrc
+    ~/.i3status.conf : i3status.conf

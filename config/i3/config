@@ -34,7 +34,7 @@ bindsym XF86AudioMute exec amixer -q set Master toggle
 # autostart
 exec --no-startup-idfeh --bg-fill ~/Downloads/wall.jpg
 exec --no-startup-id xsettingsd &
-exec --no-startup-id "compton -b"
+#exec --no-startup-id "compton -b"
 exec setxkbmap -layout us,ru
 exec setxkbmap -option 'grp:alt_shift_toggle'
 
