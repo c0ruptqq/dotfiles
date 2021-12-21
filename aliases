@@ -4,3 +4,5 @@ alias c='clear'
 alias neofetch='neofetch --source /home/maksym/sus'
 alias zsh='chsh -s /bin/zsh'
 alias bash='chsh -s /bin/bash'
+alias 2monitor='xrandr --output eDP-1 --auto --output HDMI-1 --auto --left-of eDP-1
+xrandr --output HDMI-1 --rotate left'
